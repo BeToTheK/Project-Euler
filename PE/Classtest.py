@@ -29,7 +29,7 @@ class Employee:
 emp1=Employee('brittany', 'burke', 500)
 emp2=Employee('brian','kresge',1000)
 emp_str_0= 'John-Doe-8888'
-emp_str_1= 'Big-Dong-666'
+emp_str_1= 'B-K-666'
 
 new_emp=Employee.from_string(emp_str_0)
 import datetime
